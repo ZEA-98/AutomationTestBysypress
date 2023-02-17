@@ -1,0 +1,8 @@
+{
+  "name": "educy",
+  "version": "1.0.0",
+  "description": "automation ui using cypress",
+  "main": "index.js",
+  "author": "arza98",
+  "license": "MIT"
+}
